@@ -108,7 +108,8 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.no-underline {
+.page__content a.no-underline {
   text-decoration: none !important;
-  border-bottom: none !important;  /* 有些主题是用下边框做“下划线”的 */
+  border-bottom: none !important;
+  box-shadow: none !important;  /* 有的主题用阴影来模拟下划线 */
 }
