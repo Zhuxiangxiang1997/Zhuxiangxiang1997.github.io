@@ -8,6 +8,10 @@ DA Ziqian, LYU Gang, YU Chenyun, HU Xiaoyue and **ZHU Xiangxiang**. [Study on Ev
 
 Xi Xiao, Weidong Guo, **ZHU Xiangxiang** and Shaoshuai Shi(✉). [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh). *Journal of Mountain Science*, 2025, 69(10): 249-255. (SCI, Q3, 中科院4区, IF=2.5).
 
+**Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao(✉). [Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions]. *Energy*, 2025 (*Under review*).
+
+**Xiangxiang Zhu**, Shanwu Li(✉), Shengqi Zhang, Shubin Fu, Zhiping Mao, Yongchao Yang(✉) and [Shiyi Chen](https://person.eitech.edu.cn/gxb/csy1/main.htm). [A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations ]. *Journal of Fluid Mechanics*, 2025 (*Under review*).
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
