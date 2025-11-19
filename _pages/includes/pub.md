@@ -10,7 +10,7 @@ Xi Xiao, Weidong Guo, **ZHU Xiangxiang** and Shaoshuai Shi(✉). [Evolution mech
 
 **Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao(✉). [Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions]. *Energy*, 2025 (*Under review*).
 
-**Xiangxiang Zhu**, Shanwu Li(✉), Shengqi Zhang, Shubin Fu, Zhiping Mao, Yongchao Yang(✉) and [Shiyi Chen](https://person.eitech.edu.cn/gxb/csy1/main.htm). [A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations ]. *Journal of Fluid Mechanics*, 2025 (*Under review*).
+**Xiangxiang Zhu**, Shanwu Li(✉), [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, Yongchao Yang(✉) and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). [A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations ]. *Journal of Fluid Mechanics*, 2025 (*Under review*).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
