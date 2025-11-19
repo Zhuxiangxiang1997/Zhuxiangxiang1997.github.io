@@ -1,8 +1,9 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Jiyang Senior High School, Suzhou.
+- *2012.09 - 2015.06*, Jiyang Senior High School, Suzhou, Jiangsu.
+- *2015.09 - 2019.06*, Undergraduate, College of Civil Engineering, Nanjing Forestry University, Nanjing, Jiangsu.
+- *2019.09 - 2022.06*, Master of Science, Shandong University, Jinan, Shandong.
+- *2022.09 - 2026.06*, Doctor of Philosophy, Shanghai Jiao Tong University, Shanghai.
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
