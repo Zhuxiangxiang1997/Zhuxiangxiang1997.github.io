@@ -1,8 +1,6 @@
 
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
-
-
 <div class='paper-box'>
   <!-- 第一段文字内容 100% -->
   <div class='paper-box-text' markdown="1">
