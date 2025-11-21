@@ -1,7 +1,11 @@
 
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GFL 2022</div><img src='images/experimental_study.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 Shaoshuai Shi, **Xiangxiang Zhu**(✉), Zhiguo Cao, Lin Bu, Zhijie Wen(✉), Zongqing Zhou, Weidong Guo and Ruijie Zhao. [Experimental study of seepage characteristics of filling structures in deep roadway](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){: .no-underline}. ***Geofluids***, 2022(1), 9517011. (SCI, Q2, 中科院四区, IF=1.2).
+</div>
+</div>
 
 ## 🎉**Year 2025**🎉
 答子虔, 吕刚, 于晨昀, 胡小悦, **祝向向**. [隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***铁道标准设计***, 2025, 69(10): 249-255. (北大核心)
