@@ -40,116 +40,51 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-//.paper-box {
-//    display: flex;
- //   justify-content: left;
-   // align-items: center;
-    //flex-direction: column;
-   // flex-wrap: wrap;
-//    border-bottom: 1px #efefef solid;
- //   padding: 2em 0 2em 0;
-    
-//    .paper-box-image{
-//        justify-content: center;
- //       display: flex;
- //       width: 100%;
- //       order: 2;
- //       img {
- //           max-width: 400px;
- //           box-shadow: 3px 3px 6px #888;
-  //          object-fit: cover;
-  //      }
-  //  }
-    
- //   .paper-box-text{
- //       max-width: 100%;
- //       order: 1;
- //   }
-    
- //   @include breakpoint($medium) {
-        // 在中等屏幕上保持垂直排列
-//        flex-direction: column;
- //       .paper-box-text{
- //           justify-content: left;
- //           padding-left: 0em;
-//            width: 100%;
- //           max-width: 100%;
- //           order: 1; //保持文字在上
-            
-//        .paper-box-image{
- //           justify-content: left;
- //           width: 100%;
- //           max-width: 100%;
-            //min-width: 200px;
-           // max-width: 40%;
- //           order: 2; // 保持图片在下
-  //      }
-        
-
- //       }
-
-//    }
-
-
-//}
 .paper-box {
-  display: flex;
-  flex-direction: column;
-  border-bottom: 1px #efefef solid;
-  padding: 2em 0;
-}
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
 
-.paper-box-text {
-  width: 100%;
-  margin-bottom: 1.5em;
-}
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
 
-.paper-box-bottom {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  gap: 1em;
-  width: 100%;
-}
+    }
 
-.paper-box-image {
-  width: 50%;
-  display: flex;
-  justify-content: center;
-}
 
-.paper-box-image img {
-  max-width: 100%;
-  box-shadow: 3px 3px 6px #888;
-  object-fit: cover;
-}
-
-.paper-box-text2 {
-  width: 50%;
-  display: flex;
-  align-items: center;
-}
-
-.badge {
-  background-color: #00369f;
-  color: white;
-  padding: 0.3em 0.8em;
-  font-size: 0.8em;
-  margin-bottom: 0.5em;
-  display: inline-block;
-}
-
-/* 响应式：在小屏幕上垂直排列 */
-@media screen and (max-width: 768px) {
-  .paper-box-bottom {
-    flex-direction: column;
-  }
-
-  .paper-box-image,
-  .paper-box-text2 {
-    width: 100%;
-  }
 }
 
 $scroll_offset : 2em;
@@ -171,10 +106,4 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
-}
-
-.page__content a.no-underline {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;  /* 有的主题用阴影来模拟下划线 */
 }
