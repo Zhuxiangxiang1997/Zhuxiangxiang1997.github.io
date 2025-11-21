@@ -69,19 +69,21 @@
     @include breakpoint($medium) {
         // 在中等屏幕上保持垂直排列
         flex-direction: column;
-        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            width: 100%
+            max-width: 60%;
+            order: 1; //保持文字在上
+            
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
-            order: 2;
+            order: 2; // 保持图片在下
         }
         
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 1;
+
         }
 
     }
