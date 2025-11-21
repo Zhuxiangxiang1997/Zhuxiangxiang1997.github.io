@@ -12,7 +12,7 @@
     <div class="paper-box-image">
       <div>
         <div class="badge">GFL 2022</div>
-        <img src="images/experimental_study.png" alt="sym">
+        <img src='images/experimental_study.png' alt="sym">
       </div>
     </div>
 
