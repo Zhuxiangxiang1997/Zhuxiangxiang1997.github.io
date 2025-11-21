@@ -36,10 +36,6 @@
       {% if author.employer%}
           <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-
-      {% if author.card%}
-          <li><i class="fas fa-address-card" aria-hidden="true"></i> {{ author.card }}</li>
-      {% endif %}
       
       {% if author.uri %}
         <li>
@@ -145,6 +141,10 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      
+      {% if author.card%}
+          <li><i class="fas fa-address-card" aria-hidden="true"></i> {{ author.card }}</li>      
 {% endif %}
     </ul>
       <div class="author__urls_sm">
