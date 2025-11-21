@@ -1,7 +1,7 @@
 
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GFL 2022</div><img src='images/experimental_study.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GFL 2022</div><img src='images/experimental_study.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Shaoshuai Shi, **Xiangxiang Zhu**(✉), Zhiguo Cao, Lin Bu, Zhijie Wen(✉), Zongqing Zhou, Weidong Guo and Ruijie Zhao. [Experimental study of seepage characteristics of filling structures in deep roadway](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){: .no-underline}. ***Geofluids***, 2022(1), 9517011. (SCI, Q2, 中科院四区, IF=1.2).
 </div>
