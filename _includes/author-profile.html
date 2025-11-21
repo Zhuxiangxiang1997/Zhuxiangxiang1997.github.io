@@ -36,6 +36,10 @@
       {% if author.employer%}
           <li><i class="fa fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+
+      {% if author.card%}
+          <li><i class="fas fa-address-card" aria-hidden="true"></i> {{ author.employer }}</li>
+      {% endif %}
       
       {% if author.uri %}
         <li>
