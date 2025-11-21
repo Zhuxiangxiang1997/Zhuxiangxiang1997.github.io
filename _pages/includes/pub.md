@@ -34,8 +34,7 @@ Ziqian Da, Gang Lyu, Chenyun Yu, Xiaoyue Hu and **Xiangxiang Zhu**. [Study on ev
 
 Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi(✉). [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. <span class="blue-text"> <strong><em>Journal of Mountain Science</em></strong>, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5)</span>.
 
-**Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao(✉). Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. ***Energy***, 2025 (SCI, Q1, 中科院一区TOP, IF=9.1, Under review).
-
+**Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao(✉). Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="blue-text"> <strong><em>Energy</em></strong>, , 2025 (SCI, Q1, 中科院一区TOP, IF=9.1, Under review</span>.
 
 <div class='paper-box'>
   <div class='paper-box-image'>
