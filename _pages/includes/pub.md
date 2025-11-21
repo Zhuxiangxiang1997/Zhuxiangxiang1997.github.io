@@ -4,6 +4,8 @@
 Shaoshuai Shi, **Xiangxiang Zhu**(✉), Zhiguo Cao, Lin Bu, Zhijie Wen(✉), Zongqing Zhou, Weidong Guo and Ruijie Zhao. [Experimental study of seepage characteristics of filling structures in deep roadway](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){: .no-underline}. ***Geofluids***, 2022(1), 9517011. (SCI, Q2, 中科院四区, IF=1.2).
 
 ## 🎉**Year 2025**🎉
+答子虔, 吕刚, 于晨昀, 胡小悦, **祝向向**. [隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***铁道标准设计***, 2025, 69(10): 249-255.
+
 Ziqian Da, Gang Lyu, Chenyun Yu, Xiaoyue Hu and **Xiangxiang Zhu**. [Study on evolution law of seepage instability and disaster mechanism of water inrush in tunnels passing through filling media strata](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***Railway Standard Design***, 2025, 69(10): 249-255.
 
 Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi(✉). [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. ***Journal of Mountain Science***, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5).
