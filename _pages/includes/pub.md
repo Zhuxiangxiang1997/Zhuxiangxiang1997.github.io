@@ -14,7 +14,7 @@ Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi(✉). [Evolution mech
 
 **Xiangxiang Zhu**, Shanwu Li(✉), [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, Yongchao Yang(✉) and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. ***Journal of Fluid Mechanics***, 2025 (SCI, Q1, 中科院二区, IF=3.9, Under review).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/SC-CAE-NNM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
