@@ -108,4 +108,8 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.page__content a.no-underline { text-decoration: none !important; border-bottom: none !important; box-shadow: none !important; /* 有的主题用阴影来模拟下划线 */ }
+.page__content a.no-underline { 
+    text-decoration: none !important; 
+    border-bottom: none !important; 
+    box-shadow: none !important; /* 有的主题用阴影来模拟下划线 */ 
+}
