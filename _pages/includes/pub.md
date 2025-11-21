@@ -1,31 +1,17 @@
 
 # 📜 Publications 
 ## 🎉**Year 2022**🎉
-<div class='paper-box'>
-  <div class='paper-box-text'>
-    <strong>答子虔</strong>, 吕刚, 于晨盼, 胡小悦, <strong>祝向向</strong>. 
-    <a href="#">隧道穿越充填介质地层渗透失稳演化规律与突涌水灾变机理研究</a>. 
-    <em>铁道标准设计</em>, 2025, 69(10): 249-255. (北大核心)
-  </div>
-
-  <div class="paper-box-bottom">
-    <div class="paper-box-image">
-      <div>
+<div class='paper-box'>  
+  <div class='paper-box-image'>
+    <div>
+      <div class='paper-box-text' markdown="1">
         <div class="badge">GFL 2022</div>
-        <img src='images/experimental_study.png' alt="sym">
+        <img src='images/experimental_study.png' alt="sym" width="100%">  
       </div>
     </div>
-
-    <div class="paper-box-text2">
-      <p>
-        This figure shows the experimental apparatus for seepage simulation, including a confining pressure intake, a particle loss system, and sensors for data collection.
-      </p>
-    </div>
-  </div>
+<div class='paper-box-text pink-links' markdown="1">
+[1] **Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, Zhiguo Cao, Lin Bu, **Zhijie Wen**<sup>✉</sup>, Zongqing Zhou, Weidong Guo, Ruijie Zhao. [**Experimental study of seepage characteristics of filling structures in deep roadway**](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9517011){:target="_blank"}. <span class="blue-text"> <strong><em>Geofluids</em></strong>, 2022(1): 9517011. (SCI, Q2, 中科院四区, IF=1.2)</span>.
 </div>
-
-</body>
-</html>
 
 ## 🎉**Year 2025**🎉
 <div class='paper-box-text pink-links' markdown="1">
