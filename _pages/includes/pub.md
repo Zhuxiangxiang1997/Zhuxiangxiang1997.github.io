@@ -4,24 +4,19 @@
 <div class='paper-box'>
   <!-- 第一段文字内容 100% -->
   <div class='paper-box-text' markdown="1">
-    **Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, ...
-    <br>
-    [**Experimental study...**](https://...)  
-    *Geofluids*, 2022(1): 9517011. ...
+    **Shaoshuai Shi**, Xiangxiang Zhu<sup>✉</sup>, [**Experimental study...**](https://...). *Geofluids*, 2022(1): 9517011.
   </div>
 
-  <!-- 下半部分：图片 + 第二段文字并排 -->
-  <div class='paper-box-bottom'>
-    <div class='paper-box-image'>
+  <div class="paper-box-bottom">
+    <div class="paper-box-image">
       <div>
         <div class="badge">GFL 2022</div>
-        <img src='images/experimental_study.png' alt="sym" width="100%">
+        <img src="/mnt/data/e18d1e3e-5408-44ac-a314-80005ed59829.png" alt="experiment image">
       </div>
     </div>
 
-  <div class='paper-box-text2'>
-      <!-- 第二段补充说明或文字 -->
-      <p>This figure shows the experimental apparatus for seepage simulation, including a confining pressure intake, a particle loss system, and sensors for data collection.</p>
+    <div class="paper-box-text2">
+      <p>Some text here...</p>
     </div>
   </div>
 </div>
