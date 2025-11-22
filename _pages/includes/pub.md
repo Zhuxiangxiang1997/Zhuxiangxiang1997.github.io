@@ -21,12 +21,12 @@
 
 <!-- 文章3 -->
 <div class='paper-box-text pink-links' markdown="1">
-[3] Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and Shaoshuai Shi<sup>✉</sup>. [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. <span class="pink-text"> <strong><em>Journal of Mountain Science</em></strong></span>, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5)
+[3] Xi Xiao, Weidong Guo, **Xiangxiang Zhu** and <strong>Shaoshuai Shi<sup>✉</sup></strong>. [Evolution mechanism of water inrush in filling structures of deep-buried tunnels under thermo-hydro-mechanical coupling](https://tdbs.publish.founderss.cn/thesisDetails#10.13238/j.issn.1004-2954.202507220004&lang=zh){: .no-underline}. <span class="pink-text"> <strong><em>Journal of Mountain Science</em></strong></span>, 2025, 69(10): 249-255. (SCI, Q3, 中科院四区, IF=2.5)
 </div>
 
 <!-- 文章4 -->
 <div class='paper-box-text pink-links' markdown="1">
-[4] **Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and Yong Cao<sup>✉</sup>. Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="pink-text"> <strong><em>Energy</em></strong></span>, 2025. (SCI, Q1, 中科院一区TOP, IF=9.1, Under review)
+[4] **Xiangxiang Zhu**, Haokai Wu, Baiyang Song, Jing Wang and <strong>Yong Cao<sup>✉</sup></strong>. Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="pink-text"> <strong><em>Energy</em></strong></span>, 2025. (SCI, Q1, 中科院一区TOP, IF=9.1, Under review)
 </div>
 
 <!-- 文章5 -->
@@ -38,7 +38,7 @@
     </div>
   </div>
 <div class='paper-box-text pink-links' markdown="1">
-[5] **Xiangxiang Zhu**, Shanwu Li<sup>✉</sup>, [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, Yongchao Yang<sup>✉</sup> and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. <span class="pink-text"> <strong><em>Journal of Fluid Mechanics</em></strong></span>, 2025. (SCI, Q1, 中科院二区, IF=3.9, Under review)
+[5] **Xiangxiang Zhu**, <strong>Shanwu Li<sup>✉</sup></strong>, [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, <strong>Yongchao Yang<sup>✉</sup></strong> and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. <span class="pink-text"> <strong><em>Journal of Fluid Mechanics</em></strong></span>, 2025. (SCI, Q1, 中科院二区, IF=3.9, Under review)
 
 [🌟]
   - This research project has been carried out under the guidance of [Academician Chen Shiyi (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
