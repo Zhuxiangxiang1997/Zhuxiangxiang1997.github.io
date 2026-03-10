@@ -27,7 +27,7 @@
 ## 🎉**Year 2026**🎉
 <!-- 文章4 -->
 <div class='paper-box-text pink-links' markdown="1">
-[4] **Xiangxiang Zhu**, Limin Kuang, Haokai Wu, Baiyang Song, Jing Wang and <strong>Yong Cao<sup>✉</sup></strong>. Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="pink-text"> <strong><em>Ocean Engineering</em></strong></span>, 2026. (SCI, Q1, 中科院一区TOP, IF=5.5)
+[4] **Xiangxiang Zhu**, Limin Kuang, Haokai Wu, Baiyang Song, Jing Wang and <strong>Yong Cao<sup>✉</sup></strong>. Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="pink-text"> <strong><em>Ocean Engineering</em></strong></span>, 2026. (SCI, Q1, 中科院二区TOP, IF=5.5)
 </div>
 
 <!-- 文章5 -->
