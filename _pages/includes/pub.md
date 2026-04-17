@@ -16,8 +16,8 @@
   - This research project has been carried out under the guidance of [Academician Chen Shiyi (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
 </div>
 </div>
-</div>
 
+<!-- 文章2 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -25,12 +25,8 @@
       <img src='images/SC-CAE-NNM.png' alt="sym" width="100%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
-
-<!-- 文章2 -->
 <div class='paper-box-text pink-links' markdown="1">
 [2] **Xiangxiang Zhu**, Limin Kuang, Haokai Wu, Baiyang Song, Jing Wang and <strong>Yong Cao<sup>✉</sup></strong>. Effects of wake interference on icing characteristics and performance evaluation for rotating vertical axis wind turbines under icing conditions. <span class="pink-text"> <strong><em>Ocean Engineering</em></strong></span>, 2026. (SCI检索, **JCR Q1**, 中科院一区**TOP**, IF=5.5)
-</div>
 </div>
 </div>
 
