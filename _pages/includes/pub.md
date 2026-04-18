@@ -10,7 +10,7 @@
     </div>
   </div>
 <div class='paper-box-text pink-links' markdown="1">
-[1] **Xiangxiang Zhu**, <strong>Shanwu Li<sup>✉</sup></strong>, [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, <strong>Yongchao Yang<sup>✉</sup></strong> and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. <span class="pink-text"> <strong><em>Journal of Fluid Mechanics</em></strong></span>, 2025. (SCI检索, **JCR Q1**, 中科院二区**TOP**, IF=3.9)
+[1] **Xiangxiang Zhu**, <strong>Shanwu Li<sup>✉</sup></strong>, [Shengqi Zhang](https://scholar.google.com/citations?user=BXTC31AAAAAJ&hl=en), Shubin Fu, Zhiping Mao, <strong>Yongchao Yang<sup>✉</sup></strong> and [Shiyi Chen](https://scholar.google.com/citations?user=G4cgJtgAAAAJ&hl=en). A strongly-coupled fluid-structure interaction network for predictive modeling of vortex-induced vibrations. <span class="pink-text"> <strong><em>Journal of Fluid Mechanics</em></strong></span>, 2026, 355:125038. (SCI检索, **JCR Q1**, 中科院二区**TOP**, IF=3.9)
 
 [🌟]
   - This research project has been carried out under the guidance of [Academician Chen Shiyi (陈十一)](https://person.eitech.edu.cn/gxb/csy1/main.htm), an academician of the Chinese Academy of Sciences.
